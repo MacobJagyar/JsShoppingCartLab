@@ -1,0 +1,17 @@
+.product {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+display:block;
+padding: 10px 24px;
+width: 50%;
+cursor: pointer;
+margin-top: .5rem;
+}
+
+.checkout {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display:block;
+    padding: 10px 24px;
+    width: 50%;
+    cursor: pointer;
+    margin-top: 2.5rem;
+}
